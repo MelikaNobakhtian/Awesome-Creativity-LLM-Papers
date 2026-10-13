@@ -76,9 +76,9 @@ validity when the respondent may have seen the items during pre-training.
 | ★★ | 2025 | [Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking](https://doi.org/10.1145/3706598.3714198) | Harsh Kumar, Jonathan Vincentius, Ewan Jordan et al. | CHI 2025 | LLM | [DOI 10.1145/3706598.3714198](https://doi.org/10.1145/3706598.3714198) |
 | ★★ | 2025 | [Large language models show both individual and collective creativity comparable to humans](https://doi.org/10.1016/j.tsc.2025.101870) | Luning Sun, Yuzhuo Yuan, Yuan Yao et al. | Thinking Skills and Creativity (2025) | LLM | [DOI 10.1016/j.tsc.2025.101870](https://doi.org/10.1016/j.tsc.2025.101870) |
 | ★★★ | 2025 | [Measuring Combinatorial Creativity in Large Language Models and Humans](https://arxiv.org/abs/2509.21043) | Samuel Schapiro, Akshay K. Jagadish, Alexi Gladstone et al. | arXiv preprint (no published version found) | LLM | [arXiv:2509.21043](https://arxiv.org/abs/2509.21043) |
-| ★★★ | 2026 | [Assessing the Creativity of Large Language Models: Testing, Limits, and New Frontiers](https://arxiv.org/abs/2605.13450) | Samuel Schapiro, Alexi Gladstone, Jonah Black et al. | arXiv preprint (no published version found) | LLM | [arXiv:2605.1345](https://arxiv.org/abs/2605.1345) |
+| ★★★ | 2026 | [Assessing the Creativity of Large Language Models: Testing, Limits, and New Frontiers](https://arxiv.org/abs/2605.13450) | Samuel Schapiro, Alexi Gladstone, Jonah Black et al. | arXiv preprint (no published version found) | LLM | [arXiv:2605.13450](https://arxiv.org/abs/2605.13450) |
 | ★★★ | 2026 | [Beyond Divergent Creativity: A Human-Based Evaluation of Creativity in Large Language Models](https://doi.org/10.18653/v1/2026.findings-eacl.138) | Kumiko Nakajima, Jan Zuiderveld, Sandro Pezzelle | Findings of EACL 2026 | LLM | [DOI 10.18653/v1/2026.findings-eacl.138](https://doi.org/10.18653/v1/2026.findings-eacl.138) |
-| ★★★ | 2026 | [CREATE: Testing LLMs for Associative Creativity](https://arxiv.org/abs/2603.09970) | Manya Wadhwa, Tiasa Singha Roy, Harvey Lederman et al. | arXiv preprint (no published version found) | LLM | [arXiv:2603.0997](https://arxiv.org/abs/2603.0997) |
+| ★★★ | 2026 | [CREATE: Testing LLMs for Associative Creativity](https://arxiv.org/abs/2603.09970) | Manya Wadhwa, Tiasa Singha Roy, Harvey Lederman et al. | arXiv preprint (no published version found) | LLM | [arXiv:2603.09970](https://arxiv.org/abs/2603.09970) |
 | ★★ | 2026 | [Divergent Creativity in Humans and Large Language Models](https://doi.org/10.1038/s41598-025-25157-3) | Antoine Bellemare-Pepin, François Lespinasse, Philipp Thölke et al. | Scientific Reports (2026) | LLM | [DOI 10.1038/s41598-025-25157-3](https://doi.org/10.1038/s41598-025-25157-3) |
 
 [↑ Contents](#contents)
@@ -250,8 +250,8 @@ creative belongs to the generation side and is not listed.
 | Focus | Year | Paper | Authors | Venue | Side | ID |
 | :-: | :-: | --- | --- | :-: | :-: | --- |
 | ★★ | 2022 | [Modeling the Remote Associates Test as Retrievals from Semantic Memory](https://doi.org/10.1111/cogs.13145) | Jule Schatz, Steven J. Jones, John E. Laird | Cognitive Science (2022) | Original | [DOI 10.1111/cogs.13145](https://doi.org/10.1111/cogs.13145) |
-| ★★ | 2024 | [Steering Large Language Models to Evaluate and Amplify Creativity](https://arxiv.org/abs/2412.06060) | Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck et al. | NeurIPS 2024 Workshop on Creativity & Generative AI (Spotlight) | LLM | [arXiv:2412.0606](https://arxiv.org/abs/2412.0606) |
-| ★★ | 2026 | [Large Language Models Align with the Human Brain during Creative Thinking](https://arxiv.org/abs/2604.03480) | Mete Ismayilzada, Simone A. Luchini, Abdulkadir Gokce et al. | COLM 2026 | LLM | [arXiv:2604.0348](https://arxiv.org/abs/2604.0348) |
+| ★★ | 2024 | [Steering Large Language Models to Evaluate and Amplify Creativity](https://arxiv.org/abs/2412.06060) | Matthew Lyle Olson, Neale Ratzlaff, Musashi Hinck et al. | NeurIPS 2024 Workshop on Creativity & Generative AI (Spotlight) | LLM | [arXiv:2412.06060](https://arxiv.org/abs/2412.06060) |
+| ★★ | 2026 | [Large Language Models Align with the Human Brain during Creative Thinking](https://arxiv.org/abs/2604.03480) | Mete Ismayilzada, Simone A. Luchini, Abdulkadir Gokce et al. | COLM 2026 | LLM | [arXiv:2604.03480](https://arxiv.org/abs/2604.03480) |
 
 [↑ Contents](#contents)
 
@@ -297,8 +297,7 @@ Additions are welcome. To keep the list's one useful property — that its metad
 3. the full author list as the primary index gives it;
 4. which section it belongs in, which focus tier, and whether it is Original or LLM side.
 
-Entries whose venue cannot be confirmed from arXiv or OpenAlex will be marked unconfirmed rather than rejected. Entries on music generation, image and text-to-image models, or the perception of machine-made art are out of scope — see **Scope** above.
-
+Entries whose venue cannot be confirmed from arXiv or OpenAlex will be marked unconfirmed rather than rejected.
 ## License
 
 The list itself — the selection, structure, annotations and metadata — is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): use it without attribution. The papers it points to are the property of their authors and publishers; links go to publisher pages or author-posted preprints.

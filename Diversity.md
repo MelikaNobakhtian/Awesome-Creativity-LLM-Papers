@@ -2,7 +2,7 @@
 
 ![papers](https://img.shields.io/badge/papers-119-blue) ![metadata](https://img.shields.io/badge/metadata-verified%20against%20arXiv%20%2B%20OpenAlex-brightgreen) ![updated](https://img.shields.io/badge/updated-2026--10--13-lightgrey) ![license](https://img.shields.io/badge/list-CC0--1.0-informational)
 
-**119 papers on the diversity of machine creativity** — how it is defined, how it is measured, how it is lost, and what has been tried to get it back.
+**119 papers on the diversity of machine creativity**: how it is defined, how it is measured, how it is lost, and what has been tried to get it back.
 
 A language model asked the same open-ended question a hundred times will often give nearly the same answer, and two different models will often give nearly the same answer as each other. That observation now has a literature: metrics for it, benchmarks that score it, measurements of its spread into human writing and culture, accounts of which training step causes it, and a fast-growing set of fixes. This list collects that literature in the order the argument runs, foundations, measurement, phenomena, causes, remedies, norms, so it can be read front to back rather than searched.
 

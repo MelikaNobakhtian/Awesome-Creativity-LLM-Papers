@@ -1,4 +1,4 @@
-# Diversity in Creativity — A Reading List
+# Diversity in Creativity: A Reading List
 
 ![papers](https://img.shields.io/badge/papers-119-blue) ![metadata](https://img.shields.io/badge/metadata-verified%20against%20arXiv%20%2B%20OpenAlex-brightgreen) ![updated](https://img.shields.io/badge/updated-2026--10--13-lightgrey) ![license](https://img.shields.io/badge/list-CC0--1.0-informational)
 

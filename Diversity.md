@@ -43,7 +43,7 @@ Eight papers that between them cover the whole argument:
 - [J. Remedies in training and post-training](#j-remedies-in-training-and-post-training): 11 papers
 - [K. Open-endedness, quality-diversity, and search](#k-open-endedness-quality-diversity-and-search): 5 papers
 - [L. Pluralism, safety, and the diversity-quality trade-off](#l-pluralism-safety-and-the-diversity-quality-trade-off): 10 papers
-- [Adjacent and background reading](#adjacent-and-background-reading) — 5 papers
+- [Adjacent and background reading](#adjacent-and-background-reading): 5 papers
 - [Contributing](#contributing)
 - [License](#license)
 

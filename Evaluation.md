@@ -9,8 +9,8 @@
 
 | Mark | Meaning |
 | :-: | --- |
-| ★★★ | The evaluation of creativity is the object of study — it proposes, validates or critiques a test, metric, rubric, judge, benchmark or framework |
-| ★★ | Evaluation is a main axis of the paper, but its goal is something else — it applies an existing instrument, or reports a creativity measure as evidence for a different claim |
+| ★★★ | The evaluation of creativity is the object of study, it proposes, validates or critiques a test, metric, rubric, judge, benchmark or framework |
+| ★★ | Evaluation is a main axis of the paper, but its goal is something else, it applies an existing instrument, or reports a creativity measure as evidence for a different claim |
 | ★ | Listed for framing or lineage only, collected under [Adjacent and background reading](#adjacent-and-background-reading) |
 
 Each entry also carries **Side**: *Original* for human-creativity science and classical computational creativity, *LLM* for work on generative language models, so the two traditions can be read against each other.
